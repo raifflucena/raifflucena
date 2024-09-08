@@ -8,6 +8,17 @@
 - 👨‍💻 All of my projects are available at <a href="https://www.raiff.com.br" target="_blank"><b>raiff.com.br</b></a>
 
 
+<h3 align="left">Where to find me:</h3>
+<p align="left">
+  <a href="<a href="https://linkedin.com/in/raifflucena" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:raiffb@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 <h3 align="left">Things I code with:</h3>
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -22,12 +33,4 @@
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3 align="left">Where to find me:</h3>
-<p align="left">
-  <a href="<a href="https://linkedin.com/in/raifflucena" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:raiffb@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+

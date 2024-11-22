@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **UnioLab** and **Freelancing**
 
-- 🌱 I’m currently learning **Nodejs and Databases**
-
-- 👨‍💻 All of my projects are available at <a href="https://www.raiff.com.br" target="_blank"><b>raiff.com.br</b></a>
+- 👨‍💻 You can check my projects at <a href="https://www.raiff.com.br" target="_blank"><b>raiff.com.br</b></a>
 
 
 <h3 align="left">Where to find me:</h3>
